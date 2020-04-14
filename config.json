@@ -1,0 +1,20 @@
+{
+  "ETC": {
+    "rpcnode": "https://ethereumclassic.network/",
+    "chainId": 61,
+    "GST1": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+    "GST2": "0x0000000000b3F879cb30FE243b4Dfee438691c04"
+  },
+  "ETH": {
+    "rpcnode": "https://cloudflare-eth.com/",
+    "chainId": 1,
+    "GST1": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+    "GST2": "0x0000000000b3f879cb30fe243b4dfee438691c04"
+  },
+  "kovan": {
+    "rpcnode": "https://kovan.poa.network",
+    "chainId": 42,
+    "GST1": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+    "GST2": "0x0000000000170CcC93903185bE5A2094C870Df62"
+  }
+}
