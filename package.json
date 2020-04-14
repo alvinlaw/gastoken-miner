@@ -1,0 +1,39 @@
+{
+  "name": "gastoken-miner",
+  "version": "0.1.1",
+  "description": "GasToken is an ERC20 token on Ethereum and Ethereum Classic blockchains. This package is the miner for this token.",
+  "homepage": "https://gastoken.io/",
+  "bugs": "https://forum.saturn.network/t/gastoken-miner-feedback-suggestions/2419",
+  "main": "gastoken-miner.js",
+  "bin": "./gastoken-miner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "eth",
+    "etc",
+    "ethereum",
+    "gastoken",
+    "gas",
+    "token",
+    "erc20",
+    "erc223",
+    "saturn",
+    "cryptocurrency"
+  ],
+  "author": "Saturn Network",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "cli-progress": "^2.1.0",
+    "commander": "^2.19.0",
+    "ethers": "^4.0.7",
+    "lodash": "^4.17.11",
+    "web3": "^1.0.0-beta.36"
+  }
+}
